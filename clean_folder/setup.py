@@ -9,4 +9,5 @@ setup(
     author_email="lomakin.dec1970@gmail.com",
     license="MIT",
     packages=["clean_folder"],
+    entry_points={"console_scripts": ["clean-folder = clean_folder.clean:main"]},
 )
