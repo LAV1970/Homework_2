@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="clean_folder",
-    version="0.0.1",
+    version="0.1.0",
     description="My class",
     url="https://github.com/LAV1970/Homework_2",
     author="Alex Lomakin",
